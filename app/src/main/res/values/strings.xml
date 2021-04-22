@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IncrementButton</string>
+    <string name="inc_Btn">Increase</string>
+    <string name="zero">0</string>
+</resources>
